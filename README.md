@@ -5,8 +5,7 @@ I'm Derek Duong, currently studying Software Engineering at the University of Gu
 - 🔭 I’m currently working on Front end programming
 - 🌱 I’m currently learning Javascript & React
 - 👯 I’m looking to collaborate on SaAs services and website building
-- 🤔 I’m looking for help with Full stack development
-- 💬 Ask me about Martial Arts and Design
+- 💬 Ask me about Learning and Design
 - 📫 How to reach me: Dduong03@uoguelph.ca
 - ⚡ Fun fact: I can Juggle up to 5 balls
 
